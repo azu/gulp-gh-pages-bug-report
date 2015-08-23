@@ -1,0 +1,23 @@
+{
+  "name": "gulp-gh-pages-bug-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azu/gulp-gh-pages-bug-report.git"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/gulp-gh-pages-bug-report/issues"
+  },
+  "homepage": "https://github.com/azu/gulp-gh-pages-bug-report#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.2"
+  }
+}
